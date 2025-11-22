@@ -20,6 +20,7 @@ Deponun İçeriği:
 -"src/" dosyası
   -OpenCV kaynak kodları
   -YOLO modeli kodları
+  -testing.py dosyası
   -şerit takibi modülü
   -levha tespiti modülü
 -"results/" dosyası
