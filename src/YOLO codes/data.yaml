@@ -1,0 +1,7 @@
+# C:\Users\Amin\PycharmProjects\PythonProject12
+path: C:/Users/Amin/PycharmProjects/PythonProject12/dataset
+train: train/images
+val: valid/images
+
+nc: 10
+names: ['speed_limit','traffic_light','direction','vehicle','circle','square','triangle','direct_fault','let_me_pass','stop']
