@@ -16,8 +16,10 @@ Projede yapılacaklar:
                                             ---
 Deponun İçeriği:
 -veri seti
--modeller
+
 -"src/" dosyası
+  -OpenCV kaynak kodları
+  -YOLO modeli kodları
   -şerit takibi modülü
   -levha tespiti modülü
 -"results/" dosyası
