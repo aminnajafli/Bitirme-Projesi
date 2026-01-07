@@ -20,7 +20,9 @@ Projede yapılacaklar:
 - simülasyon ortamında nesne ve levha tespiti
 - şerit takibi için OpenCV tabanlı model
 - YOLO modelleriyle eğitim ve karşılaştırmalı mertik değerlendirmeleri
+- 
                                             ---
+  
 Deponun İçeriği:
 - dataset
 
