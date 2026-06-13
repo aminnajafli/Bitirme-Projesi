@@ -1,6 +1,5 @@
-# navigation_2025: TEKNOFEST için Gelişmiş ROS2 Nav2 Navigasyon Paketi
-
-Bu paket, TEKNOFEST yarışma robotları için yüksek derecede optimize edilmiş bir ROS2 Nav2 tabanlı otonom navigasyon yığını sunar. Gelişmiş yasak bölge (keepout) yönetimi, sağlam costmap ve kontrolcü ayarları ile karmaşık ortamlarda yüksek performanslı ve güvenli gezinme sağlar.
+# navigation:
+Gelişmiş yasak bölge (keepout) yönetimi, sağlam costmap ve kontrolcü ayarları ile karmaşık ortamlarda yüksek performanslı ve güvenli gezinme sağlar.
 
 ---
 
