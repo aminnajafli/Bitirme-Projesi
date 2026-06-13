@@ -81,8 +81,8 @@ colcon build
 Bütün bu işlemler bittikten sonra pkgs_ws'nin bashrc'den source yapılması gerekmektedir:
 ```bash
 echo "source ~/pkgs_ws/install/setup.bash" >> ~/.bashrc
-
-Otonom park için uygun README dosyaları "otonom_park" klasöründe bulunmaktadır.
 ```
 
 İşlemler sonucunda ros_gz paketi kurulumu tamamlanmış demektir.
+
+Otonom park için uygun README dosyaları "otonom_park" klasöründe bulunmaktadır.
