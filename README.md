@@ -1,4 +1,4 @@
-# Otonom Araçlarda Şerit Takibi ve Levha Tespiti Uygulamaları
+# Otonom Araçlarda Şerit Takibi, Levha Tespiti ve Otonom Park Uygulamaları
 
 2025-2026 Akademik Eğitim Yılı için Tasarım ve Bitirme Projesi dersleri için oluşturulmuş depo
 
@@ -81,6 +81,8 @@ colcon build
 Bütün bu işlemler bittikten sonra pkgs_ws'nin bashrc'den source yapılması gerekmektedir:
 ```bash
 echo "source ~/pkgs_ws/install/setup.bash" >> ~/.bashrc
+
+Otonom park için uygun README dosyaları "otonom_park" klasöründe bulunmaktadır.
 ```
 
 İşlemler sonucunda ros_gz paketi kurulumu tamamlanmış demektir.
